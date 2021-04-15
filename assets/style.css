@@ -363,9 +363,9 @@ a{
   }
 
   .staten_word{
-    width: 50%;
-    left: 185px;
-    top: 111px;
+    width: 60%;
+    left: 162px;
+    top: 116px;
   }
 
   .map_con{
@@ -382,7 +382,7 @@ a{
 
   .path, .train{
     width: 100%;
-    top: 200px;
+    top: 218px;
   }
 
   .instruction{
